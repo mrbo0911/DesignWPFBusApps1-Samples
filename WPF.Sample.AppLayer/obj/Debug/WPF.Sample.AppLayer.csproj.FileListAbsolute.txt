@@ -1,0 +1,14 @@
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\WPF.Sample.AppLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\WPF.Sample.AppLayer.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\Common.Library.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\WPF.Sample.DataLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\EntityFramework.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\Common.Library.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\WPF.Sample.DataLayer.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\bin\Debug\EntityFramework.xml
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\obj\Debug\WPF.Sample.AppLayer.csproj.AssemblyReference.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\obj\Debug\WPF.Sample.AppLayer.g.resources
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\obj\Debug\WPF.Sample.AppLayer.csproj.CoreCompileInputs.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\obj\Debug\WPF.Sample.AppLayer.csproj.CopyComplete
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\obj\Debug\WPF.Sample.AppLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.AppLayer\obj\Debug\WPF.Sample.AppLayer.pdb

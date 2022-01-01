@@ -1,0 +1,17 @@
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\WPF.Sample.ViewModelLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\WPF.Sample.ViewModelLayer.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\Common.Library.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\EntityFramework.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\WPF.Sample.AppLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\WPF.Sample.DataLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\Common.Library.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\WPF.Sample.AppLayer.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\WPF.Sample.DataLayer.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\EntityFramework.xml
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\obj\Debug\WPF.Sample.ViewModelLayer.csproj.AssemblyReference.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\obj\Debug\WPF.Sample.ViewModelLayer.csproj.CoreCompileInputs.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\obj\Debug\WPF.Sample.ViewModelLayer.csproj.CopyComplete
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\obj\Debug\WPF.Sample.ViewModelLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.ViewModelLayer\obj\Debug\WPF.Sample.ViewModelLayer.pdb

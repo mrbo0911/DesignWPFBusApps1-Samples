@@ -1,0 +1,14 @@
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\WPF.Sample.DataLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\WPF.Sample.DataLayer.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\Common.Library.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\Common.Library.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.xml
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.AssemblyReference.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.g.resources
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.CoreCompileInputs.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.CopyComplete
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.pdb

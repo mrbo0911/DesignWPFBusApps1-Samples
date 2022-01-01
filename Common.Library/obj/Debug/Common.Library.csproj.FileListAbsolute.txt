@@ -1,0 +1,6 @@
+D:\Training\Wpf\DesignWPFBusApps1-Samples\Common.Library\bin\Debug\Common.Library.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\Common.Library\bin\Debug\Common.Library.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\Common.Library\obj\Debug\Common.Library.csproj.AssemblyReference.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\Common.Library\obj\Debug\Common.Library.csproj.CoreCompileInputs.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\Common.Library\obj\Debug\Common.Library.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\Common.Library\obj\Debug\Common.Library.pdb

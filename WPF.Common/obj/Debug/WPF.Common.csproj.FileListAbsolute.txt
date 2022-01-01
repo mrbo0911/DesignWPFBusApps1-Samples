@@ -1,0 +1,14 @@
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\bin\Debug\WPF.Common.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\bin\Debug\WPF.Common.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\bin\Debug\Common.Library.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\bin\Debug\Common.Library.pdb
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.csproj.AssemblyReference.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\Resources\StandardStyles.baml
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common_MarkupCompile.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.g.resources
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.Properties.Resources.resources
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.csproj.GenerateResource.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.csproj.CoreCompileInputs.cache
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.csproj.CopyComplete
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.dll
+D:\Training\Wpf\DesignWPFBusApps1-Samples\WPF.Common\obj\Debug\WPF.Common.pdb
